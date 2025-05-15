@@ -13,7 +13,7 @@ To write a C program to perform multiplication and division of two numbers using
 
 ## Program:
 ```
-/*
+
 #include<stdio.h> 
 void multiply(int a,int b); 
 void div(int a,int b); 
@@ -36,7 +36,7 @@ int result;
 result=a/b; 
 printf("\nDivision: %d",result); 
 } 
-*/
+
 ```
 
 ## Output:
