@@ -14,7 +14,7 @@ To write a C Program to Print a right triangle star Pattern
 
 ## Program:
 ```
-/*
+
 #include <stdio.h> 
 int main() { 
     int i, j, rows; 
@@ -26,7 +26,7 @@ int main() {
         printf("\n"); 
     }    return 0; 
 }  
-*/
+
 ```
 
 ## Output:
