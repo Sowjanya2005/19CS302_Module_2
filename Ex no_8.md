@@ -41,7 +41,8 @@ printf("\nDivision: %d",result);
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/0e5da423-26d0-4f8a-879f-7c9d8aa8a7a0)
+![image](https://github.com/user-attachments/assets/f8961851-da60-4b78-b558-802b935680d9)
+
 
 ## Result:
 Thus the program was executed and the output was verified successfully.
