@@ -14,7 +14,7 @@ To write a C Program to print the string "KEYBOARD" n number of times.
 
 ## Program:
 ```
-/*
+
 #include<stdio.h> 
 int main() 
 { 
@@ -25,7 +25,7 @@ printf("KEYBOARD\n");
 }
 return 0; 
 }   
-*/
+
 ```
 
 ## Output:
